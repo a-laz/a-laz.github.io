@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Moving Across The US with Hashes"
-date:       2020-03-24 01:32:15 +0000
+date:       2020-03-23 21:32:16 -0400
 permalink:  moving_across_the_us_with_hashes
 ---
 
